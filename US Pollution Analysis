@@ -1,0 +1,49 @@
+🌍 U.S. Pollution Analysis Power BI Project
+
+I'm thrilled to present my latest Power BI project, diving deep into the realm of environmental data with a comprehensive U.S. Pollution Analysis. 
+This project aims to shed light on the impact of pollutants—Carbon Monoxide (CO), Ozone (O3), Sulphur Dioxide (SO2), and Nitrogen Dioxide (NO2)—across the United States from 2006 to 2010.
+
+Project Highlights:
+
+📊 Overview Page:
+
+Interactive insights on the four major pollutants with action-page navigation.
+Slicers for states, cities, counties, and pollution-affected years.
+Filled map showcasing pollution distribution across U.S. states.
+Table displaying county names and codes.
+Quarter-wise bifurcation of all four pollutants.
+Individual Pollutant Pages:
+
+Carbon Monoxide (CO):
+
+Top 10 states with the highest CO pollutants.
+1st maximum hour and value for CO displayed with cards.
+CO units calculated per specific metrics.
+Table showing CO in AQI for each state with dynamic color coding.
+Charts depicting maximum CO levels in each state and yearly trends.
+Top CO-polluted city, synchronized slicers for interactive analysis.
+Ozone (O3):
+
+Top 10 states with the highest O3 pollutants.
+1st maximum hour and value for Ozone displayed with cards.
+Ozone units calculated per specific metrics.
+Table showing O3 in AQI for each state with dynamic color coding.
+Charts depicting maximum O3 levels in each state and yearly trends.
+Top O3-polluted city, synchronized slicers for interactive analysis.
+Sulphur Dioxide (SO2):
+
+Top 10 states and cities with the highest SO2 pollutants.
+1st maximum hour and value for SO2 displayed with cards.
+SO2 units calculated per specific metrics.
+Table showing SO2 in AQI for each state with dynamic color coding.
+Charts depicting maximum SO2 levels in each state and yearly trends.
+Top SO2-polluted city, synchronized slicers for interactive analysis.
+Nitrogen Dioxide (NO2):
+
+Top 10 states with the highest NO2 pollutants.
+1st maximum hour and value for NO2 displayed with cards.
+NO2 units calculated per specific metrics.
+Table showing NO2 in AQI for each state with dynamic color coding.
+Charts depicting maximum NO2 levels in each state and yearly trends.
+Top NO2-polluted city, synchronized slicers for interactive analysis.
+This project is not just a visualization; it's a call to action for understanding and addressing environmental challenges. 
